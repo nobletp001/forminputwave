@@ -9,3 +9,4 @@ addEventListener
 map function
 forEach
 
+You can check out this site on this link https://forminputwave-nobletp.netlify.app
